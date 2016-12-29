@@ -2,19 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://anaurelian.com/404/</loc>
+  </url>
+  
+  <url>
     <loc>https://anaurelian.com/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://anaurelian.com/404.html</loc>
-  </url>
-  
-  <url>
-    <loc>https://anaurelian.com/index.html</loc>
-  </url>
-  
-  <url>
-    <loc>https://anaurelian.com/16milliontaps/</loc>
+    <loc>https://anaurelian.com/</loc>
   </url>
   
   <url>
@@ -22,7 +19,26 @@
   </url>
   
   <url>
+    <loc>https://anaurelian.com/srcanywhere/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anaurelian.com/tapcolormantra/</loc>
+  </url>
+  
+  <url>
     <loc>https://anaurelian.com/tapguidgenerator/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anaurelian.com/tapcolormantra/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://anaurelian.com/tapguidgenerator/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
