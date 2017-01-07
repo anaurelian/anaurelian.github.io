@@ -15,6 +15,15 @@
   </url>
   
   <url>
+    <loc>https://anaurelian.com/androidstalk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://anaurelian.com/androidstalk/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://anaurelian.com/srcanywhere/</loc>
   </url>
   
